@@ -18,7 +18,7 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
  <br> <br>
 
 ## 📁 Estrutura/
-- [DesafioIphone](https://github.com/juliagonzalezmoreira/dio-projetologico/tree/main/ecommerce) / Pasta com projeto
+- [DesafioIphone](https://github.com/juliagonzalezmoreira/DesafioIphone/tree/main/DesafioIphone) / Pasta com projeto
 - [diagramaIphone.drawio](https://github.com/juliagonzalezmoreira/DesafioIphone/blob/main/DiagramaIphone.drawio) / Diagrama de Classes.
 - ```README.md```  Informações do projeto.  
 ## 📍 Instruções 
